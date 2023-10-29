@@ -49,13 +49,13 @@ h2{
 }
 
 header{
-    background-color: #79c6d7cb;
+    background-color: #073366a9;
     display: grid;
     grid-template-columns: 150px auto;
 }
 
 nav a:hover{
-    background-color: #073366;
+    background-color: #79c6d7a8;
     color: white;
 }
 
