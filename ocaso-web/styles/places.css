@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Open+Sans&display=swap');
+
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav{
+    background-color: #14213d;
+    display: flex;
+    justify-content: space-around;
+    margin-top: -100px;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+    margin-left: 150px;
+    font-family: agbalumo;
+}
+
+nav a:hover{
+    color: white;
+    background-color: rgba(39, 58, 99, 0.842)
+}
+
+
+#logo_link{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+
+.logo{
+    width: 200px;
+}
